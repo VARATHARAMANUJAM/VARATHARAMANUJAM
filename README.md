@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VarathaRamanujam
+- 👋 Hi, I’m @VarathaRamanujam C
 - 👀 I’m interested in ...Crack the problem through simple manner
 - 🌱 I’m currently learning ... Full stack developer course
 - 💞️ I’m looking to collaborate on ... Software Engineer
