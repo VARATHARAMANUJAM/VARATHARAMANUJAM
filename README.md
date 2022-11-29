@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VarathaRamanujam C
 - 👀 I’m interested in ...Crack the problem through simple Logic
-- 🌱 I’m currently learning ... Full stack developer course
+- 🌱 I’m currently looking as a Full Stack Developer...
 - 💞️ I’m looking to collaborate on ... Software Engineer
 - 📫 How to reach me ... rockramanujam2222@gmail.com or professional2222@gmail.com
 
